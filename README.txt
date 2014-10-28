@@ -1,4 +1,19 @@
-The Internet Archive BookReader is used to view books from the Internet Archive
+Bookreader, NexGen
+
+With recent releases of the IIIF Image and Presentation APIs, and continuing progress in the area, there is a need
+to bring the BookReader in alignment with those specifications.  This will simplify BookReader integrations for those 
+who implement the server-side IIIF APIs, and will allow the BookReader to provide new features that are enabled by 
+using the IIIF specs.
+
+These enhancements to the BookReader cover two use-cases, which is the 1) reading of sequenced content manifests on a variety of 
+devices, and ultimately 2) the authoring of manifests on a variety of devices.
+
+There may be better tools for other use cases.  For example, [Mirador](https://github.com/iiif/m2) would provide better tools for scholarly 
+comparison of images across repositories. 
+
+---
+
+The original Internet Archive BookReader is used to view books from the Internet Archive
 online and can also be used to view other books.
 
 Developer documentation:
