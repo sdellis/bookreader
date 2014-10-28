@@ -6,8 +6,9 @@ who implement the server-side IIIF APIs, and will allow the BookReader to provid
 using the IIIF specs.
 
 These enhancements to the BookReader cover two use-cases, which is the: 
-1.Reading of sequenced content manifests on a variety of devices
-2.Ultimately, the authoring and annotating of manifests on a variety of devices
+
+1.  Reading of sequenced content manifests on a variety of devices
+2.  Authoring and annotating of manifests on a variety of devices
 
 There may be better tools for other use cases.  For example, [Mirador](http://github.com/iiif/m2) would provide better tools for scholarly 
 comparison of images across repositories. 
