@@ -1,4 +1,4 @@
-Bookreader, NexGen
+# Bookreader, NexGen
 
 With recent releases of the IIIF Image and Presentation APIs, and continuing progress in the area, there is a need
 to bring the BookReader in alignment with those specifications.  This will simplify BookReader integrations for those 
@@ -8,7 +8,7 @@ using the IIIF specs.
 These enhancements to the BookReader cover two use-cases, which is the 1) reading of sequenced content manifests on a variety of 
 devices, and ultimately 2) the authoring of manifests on a variety of devices.
 
-There may be better tools for other use cases.  For example, [Mirador](https://github.com/iiif/m2) would provide better tools for scholarly 
+There may be better tools for other use cases.  For example, [Mirador](http://github.com/iiif/m2) would provide better tools for scholarly 
 comparison of images across repositories. 
 
 ---
