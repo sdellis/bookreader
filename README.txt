@@ -1,4 +1,4 @@
-# Bookreader, NexGen
+#Bookreader, NexGen
 
 With recent releases of the IIIF Image and Presentation APIs, and continuing progress in the area, there is a need
 to bring the BookReader in alignment with those specifications.  This will simplify BookReader integrations for those 
