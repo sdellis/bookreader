@@ -1,16 +1,9 @@
 #IIIF 2.0 Bookreader
 
-With recent releases of the IIIF Image and Presentation APIs, and continuing progress in the area, there is a need
-to bring the BookReader in alignment with those specifications.  This will simplify BookReader integrations for those 
-who implement the server-side IIIF APIs, and will allow the BookReader to provide new features that are enabled by 
-using the IIIF specs.
+With recent releases of the IIIF [Image](http://iiif.io/api/image/2.0/) and [Presentation](http://iiif.io/api/presentation/2.0/) APIs, and continuing progress in the area, there is a need
+to bring the BookReader in alignment with those specifications (or perhaps start over, if need be).  This will simplify BookReader integrations for those  who implement the server-side IIIF APIs, and will allow the BookReader to provide new features that are enabled by using the IIIF specs.
 
-To help scope the project, these enhancements to the BookReader cover two basic use-cases, which is the: 
-
-1.  Reading of sequenced content manifests on a variety of devices
-2.  Authoring and annotating of manifests on a variety of devices
-
-There may be better tools for other use cases.  For example, [Mirador](http://github.com/iiif/m2) would provide better tools for scholarly comparison of images across repositories. 
+There may be better tools for other use cases, and we don't want to duplicate effort.  For example, [Mirador](http://github.com/iiif/m2) would provide better tools for scholarly comparison of images across repositories.  To help scope the project, please add or comment on [issues in this repository](https://github.com/sdellis/bookreader/issues).
 
 ---
 
