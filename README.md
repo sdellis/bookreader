@@ -1,5 +1,7 @@
 #IIIF 2.0 Bookreader
 
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/sdellis/bookreader?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 With recent releases of the IIIF [Image](http://iiif.io/api/image/2.0/) and [Presentation](http://iiif.io/api/presentation/2.0/) APIs, and continuing progress in the area, there is a need
 to bring the BookReader in alignment with those specifications (or perhaps start over, if need be).  This will simplify BookReader integrations for those  who implement the server-side IIIF APIs, and will allow the BookReader to provide new features that are enabled by using the IIIF specs.
 
